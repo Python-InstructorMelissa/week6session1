@@ -10,6 +10,9 @@
   justify-content: center;
   align-items: center;
 }
+.messages {
+  color: #fff;
+}
 a {
   color: #ffff00;
   text-decoration: none;
